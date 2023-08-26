@@ -1,4 +1,1 @@
-print("hello")
-
-
-data = {"hey" : "Love"}
+""""New start of the renewable project dashboard"""
